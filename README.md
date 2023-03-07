@@ -1,4 +1,5 @@
-# DNA-binary-chip-sequencingLaboratorium z bioinformatyki
+# DNA-binary-chip-sequencing
+Laboratorium z bioinformatyki
 
 Sekwencjonowanie DNA w oparciu o chipy binarne z błędami pozytywnymi Prowadzący laboratoria: **dr inż. Piotr Wawrzyniak**
 
