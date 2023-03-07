@@ -1,0 +1,15 @@
+<dna key="17637796" length="20" start="CTAATTTTGTATTTTTAGT">
+<probe pattern="ZZZZZZZZZZZZZZZZZZN">
+<cell>SSWSSWWWSWWWSWSSSWG</cell>
+<cell>SWWWWWWWSWWWWWWWWST</cell>
+<cell>WSWWSSSSSSSWWSWWWWT</cell>
+<cell>WWWWWWWSWWWWWWWWSWA</cell>
+</probe>
+<probe pattern="PPPPPPPPPPPPPPPPPPN">
+<cell>RYRYRYYRRRRRRRRYRRC</cell>
+<cell>YRRRRYYYRYRYRRRYRYT</cell>
+<cell>YRRYYYYRYRYYYYYRRYA</cell>
+<cell>YRYYYYYRYRRYYRRYRYC</cell>
+<cell>YYRRYYYYRYRYYYYYRRT</cell>
+</probe>
+</dna>
