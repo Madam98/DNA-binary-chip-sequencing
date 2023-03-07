@@ -1,4 +1,12 @@
 # DNA-binary-chip-sequencing
+
+
+## Wykorzystane biblioteki
+- numpy
+- pandas
+- matplotlib
+- cpython
+
 Laboratorium z bioinformatyki
 
 Sekwencjonowanie DNA w oparciu o chipy binarne z błędami pozytywnymi Prowadzący laboratoria: **dr inż. Piotr Wawrzyniak**
